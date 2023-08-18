@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Pithenwala</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ziko</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
 <br>
